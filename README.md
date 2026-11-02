@@ -108,7 +108,7 @@ To create a simple, smart, and engaging financial experience that helps young us
 ## 📁 Project Files
 
 - **Figma Design & Prototype:** [Wazen – Figma](https://www.figma.com/design/iZKl5pA2VQM7BWTaL2ZDiG/Website?node-id=232-1644&t=0N0HbE3XYsSs6iMB-1)
-- ---
+---
 
 ## 👥 Roles & Responsibilities
 
@@ -123,3 +123,14 @@ Team responsibilities included:
 - **Review & Improvement:** Reviewing the design and refining the overall user experience.
 
 All team members contributed collaboratively, with tasks shared according to the project's needs.
+---
+
+## 📊 Key Performance Indicators (KPIs)
+
+The success of Wazen can be evaluated using the following indicators:
+
+- **Task Completion Rate:** Measure the percentage of users who successfully complete key tasks, such as tracking expenses or setting a savings goal.
+- **Usability Score:** Evaluate how easy the app is to use through usability testing and user feedback.
+- **Time on Task:** Measure the time users need to complete essential tasks.
+- **User Satisfaction:** Collect feedback to understand users' satisfaction with the app experience.
+- **Prototype Task Success:** Track whether users can navigate the prototype and complete the main user flows successfully.
