@@ -103,3 +103,8 @@ Encourage better financial habits through challenges and rewards.
 ## 🚀 Project Goal
 
 To create a simple, smart, and engaging financial experience that helps young users make better spending and saving decisions.
+---
+
+## 📁 Project Files
+
+- **Figma Design & Prototype:** [Wazen – Figma](https://www.figma.com/design/iZKl5pA2VQM7BWTaL2ZDiG/Website?node-id=232-1644&t=0N0HbE3XYsSs6iMB-1)
