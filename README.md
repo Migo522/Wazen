@@ -108,3 +108,18 @@ To create a simple, smart, and engaging financial experience that helps young us
 ## 📁 Project Files
 
 - **Figma Design & Prototype:** [Wazen – Figma](https://www.figma.com/design/iZKl5pA2VQM7BWTaL2ZDiG/Website?node-id=232-1644&t=0N0HbE3XYsSs6iMB-1)
+- ---
+
+## 👥 Roles & Responsibilities
+
+The Wazen project was developed collaboratively by all team members. The team worked together throughout the project to define the concept, plan the features, and develop the user experience and interface design.
+
+Team responsibilities included:
+
+- **Project Planning:** Defining the project scope, objectives, and development plan.
+- **User Experience (UX):** Organizing user flows and structuring the app's features.
+- **User Interface (UI):** Contributing to the visual design and interface consistency.
+- **Prototyping:** Working on the interactive prototype and screen connections.
+- **Review & Improvement:** Reviewing the design and refining the overall user experience.
+
+All team members contributed collaboratively, with tasks shared according to the project's needs.
